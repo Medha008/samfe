@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "xxx"
+  description: "trgtr"
+  annotations:
+    github.com/project-slug: Medha008/samfe
+spec:
+  type: service
+  owner: "awesome-project"
+  lifecycle: experimental
